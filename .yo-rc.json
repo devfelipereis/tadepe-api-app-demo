@@ -1,0 +1,21 @@
+{
+  "generator-m-ionic": {
+    "answers": {
+      "appName": "Tadepe API Demo",
+      "appId": "com.tadepe.apidemo",
+      "ionicCss": true,
+      "bowerPackages": [],
+      "platforms": [
+        "android",
+        "browser"
+      ],
+      "plugins": [
+        "cordova-plugin-device",
+        "cordova-plugin-splashscreen"
+      ],
+      "appModule": "tadepeApiDemo",
+      "ecosystems": [],
+      "install": "npm"
+    }
+  }
+}
